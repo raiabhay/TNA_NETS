@@ -3,575 +3,575 @@ graph[
     directed 0
     node[
         id 1
-        label "Ahmed Dosa"
+        label "A1"
     ]
     node[
         id 2
-        label "Dawood Ibrahim"
+        label "A2"
     ]
     node[
         id 3
-        label "Tiger Memon"
+        label "A3"
     ]
     node[
         id 4
-        label "Rahim Abbas Karambelkar"
+        label "A4"
     ]
     node[
         id 5
-        label "Ayub Abdul Razak Memon"
+        label "A5"
     ]
     node[
         id 6
-        label "Tahir Mohammed"
+        label "A6"
     ]
     node[
         id 7
-        label "Anwar Theba"
+        label "A7"
     ]
     node[
         id 8
-        label "Javed Chikna"
+        label "A8"
     ]
     node[
         id 9
-        label "Mohammed Usman Jan Khan"
+        label "A9"
     ]
     node[
         id 10
-        label "Mohammed Shafi Zariwala"
+        label "A10"
     ]
     node[
         id 11
-        label "Munaf Halari"
+        label "A11"
     ]
     node[
         id 12
-        label "Suleman Mohammed Lakdawala"
+        label "A12"
     ]
     node[
         id 13
-        label "Irfan Chougule"
+        label "A13"
     ]
     node[
         id 14
-        label "Salim Mujahid"
+        label "A14"
     ]
     node[
         id 15
-        label "Bashir Khan"
+        label "A15"
     ]
     node[
         id 16
-        label "Babloo"
+        label "A16"
     ]
     node[
         id 17
-        label "Asgar Ali"
+        label "A17"
     ]
     node[
         id 18
-        label "Yeda Yakub"
+        label "A18"
     ]
     node[
         id 19
-        label "Bashir Muchhad"
+        label "A19"
     ]
     node[
         id 20
-        label "Bashir Mahimwala"
+        label "A20"
     ]
     node[
         id 21
-        label "Salim Dandekar"
+        label "A21"
     ]
     node[
         id 22
-        label "Zakir"
+        label "A22"
     ]
     node[
         id 23
-        label "Abdul Akhtar"
+        label "A23"
     ]
     node[
         id 24
-        label "Mohammed Tainur Phansopkar"
+        label "A24"
     ]
     node[
         id 25
-        label "Yakub Abdul Razak Memon"
+        label "A25"
     ]
     node[
         id 26
-        label "Aftab Ahmed Mohammed"
+        label "A26"
     ]
     node[
         id 27
-        label "Anjum Abdul Razak Memon"
+        label "A27"
     ]
     node[
         id 28
-        label "Yusuf Abdul Razak Memon"
+        label "A28"
     ]
     node[
         id 29
-        label "Abdul Razak Suleman Memon"
+        label "A29"
     ]
     node[
         id 30
-        label "Hanifa Abdul Razak Memon"
+        label "A30"
     ]
     node[
         id 31
-        label "Rahin Yakub Memon"
+        label "A31"
     ]
     node[
         id 32
-        label "Rubeena Suleman"
+        label "A32"
     ]
     node[
         id 33
-        label "Shoaib Mohammed"
+        label "A33"
     ]
     node[
         id 34
-        label "Asgar Yusuf Mukadam"
+        label "A34"
     ]
     node[
         id 35
-        label "Abdul Gani Ismail Turk"
+        label "A35"
     ]
     node[
         id 36
-        label "Parvez Nazir Ahmed Shaikh"
+        label "A36"
     ]  
     node[
         id 37
-        label "Bashir Ahmed Usman"
+        label "A37"
     ]    
     node[
         id 38
-        label "Phanasmiyan"
+        label "A38"
     ]    
     node[
         id 39
-        label "Imtiyaz Yunusmiya Ghavte"
+        label "A39"
     ]    
     node[
         id 40
-        label "Farooq Mohammed Yusuf"
+        label "A40"
     ]    
     node[
         id 41
-        label "Sharif Abdul Gafoor Parkar"
+        label "A41"
     ]    
     node[
         id 42
-        label "Suleman Mohammed Kasam"
+        label "A42"
     ]    
     node[
         id 43
-        label "Yeshwant Nago Bhoinkar"
+        label "A43"
     ]    
     node[
         id 44
-        label "Ahmed Shah Durani"
+        label "A44"
     ]    
     node[
         id 45
-        label "Iqbal Mohammed Yusuf"
+        label "A45"
     ]    
     node[
         id 46
-        label "Mohammed Ali Khan"
+        label "A46"
     ]    
     node[
         id 47
-        label "Muzammil Umar Kadri"
+        label "A47"
     ]    
     node[
         id 48
-        label "Raju Laxmichand Jain"
+        label "A48"
     ]    
     node[
         id 49
-        label "Rashid Umar Alware"
+        label "A49"
     ]    
     node[
         id 50
-        label "Sayyed Abdul Rehman Shaikh"
+        label "A50"
     ]    
     node[
         id 51
-        label "Shahnawaz Abdul Kadar Qureshi"
+        label "A51"
     ]    
     node[
         id 52
-        label "Uttam Poddar"
+        label "A52"
     ]    
     node[
         id 53
-        label "Zakir Hussain Noor"
+        label "A53"
     ]    
     node[
         id 54
-        label "Abdul Aziz Haji Gharatkar"
+        label "A54"
     ] 
     node[
         id 55
-        label "Abdul Khan"
+        label "A55"
     ]    
     node[
         id 56
-        label "Akbar Khan Abusama Khan"
+        label "A56"
     ]    
     node[
         id 57
-        label "Ashfaq Kasim Havaldar"
+        label "A57"
     ]    
     node[
         id 58
-        label "Firoz"
+        label "A58"
     ]    
     node[
         id 59
-        label "Haneef"
+        label "A59"
     ]    
     node[
         id 60
-        label "Ibrahim Mussa"
+        label "A60"
     ]    
     node[
         id 61
-        label "Khalil Ahmed Sayed Ali Nasir"
+        label "A61"
     ]    
     node[
         id 62
-        label "Moin Faridulla Qureshi"
+        label "A62"
     ]    
     node[
         id 63
-        label "Mohammed Mushtaq Moosa Tarani"
+        label "A63"
     ]    
     node[
         id 64
-        label "Mohammed Rafiq"
+        label "A64"
     ]    
     node[
         id 65
-        label "Yunus Gulam Rasul"
+        label "A65"
     ]    
     node[
         id 66
-        label "Nasim Ashraf Shaikh"
+        label "A66"
     ]    
     node[
         id 67
-        label "Noor Mohammed"
+        label "A67"
     ]    
     node[
         id 68
-        label "Salim Rahim Shaikh"
+        label "A68"
     ]    
     node[
         id 69
-        label "Samir Hingora"
+        label "A69"
     ]    
     node[
         id 70
-        label "Sardar Shawali Khan"
+        label "A70"
     ]    
     node[
         id 71
-        label "Sarfaraz Dawood Phanse"
+        label "A71"
     ]    
     node[
         id 72
-        label "Shahjahan Ibrahim Shaikhdare"
+        label "A72"
     ]    
     node[
         id 73
-        label "Shaikh Ali Shaikh Umar"
+        label "A73"
     ]    
     node[
         id 74
-        label "Shaikh Mohammed Ethesham"
+        label "A74"
     ]    
     node[
         id 75
-        label "Accused 59"
+        label "A75"
     ]    
     node[
         id 76
-        label "Sharif Khan Abbas Adhikar"
+        label "A76"
     ]    
     node[
         id 77
-        label "Sajjad Alam"
+        label "A77"
     ]  
     node[
         id 78
-        label "Tulsiram Dhondu Surve"
+        label "A78"
     ] 
     node[
         id 79
-        label "Abu Asim Azmi"
+        label "A79"
     ]
     node[
         id 80
-        label "Nasir Dakhla"
+        label "A80"
     ]
     node[
         id 81
-        label "Salim Bismilla Khan"
+        label "A81"
     ]
     node[
         id 82
-        label "Abdulla Ibrahim Surti"
+        label "A82"
     ]
     node[
         id 83
-        label "Altaf Ali Mustaq Ali Sayed"
+        label "A83"
     ]
     node[
         id 84
-        label "Amjad"
+        label "A84"
     ]
     node[
         id 85
-        label "Accused 69"
+        label "A85"
     ]
     node[
         id 86
-        label "Ashok Narayan"
+        label "A86"
     ]
     node[
         id 87
-        label "Gulam Hafiz Shaikh"
+        label "A87"
     ]
     node[
         id 88
-        label "Faki Ali"
+        label "A88"
     ]
     node[
         id 89
-        label "Faroow Iliyas Motorwala"
+        label "A89"
     ]
     node[
         id 90
-        label "Fazal Rehman"
+        label "A90"
     ]
     node[
         id 91
-        label "Gul Mohammed"
+        label "A91"
     ]
     node[
         id 92
-        label "Issaq Mohammed Hajwani"
+        label "A92"
     ]
     node[
         id 93
-        label "Janardhan Pandurang"
+        label "A93"
     ]
     node[
         id 94
-        label "Jaywant Keshav"
+        label "A94"
     ]
     node[
         id 95
-        label "Krishna Sadanand"
+        label "A95"
     ]
     node[
         id 96
-        label "Krishna Tukaram"
+        label "A96"
     ]
     node[
         id 97
-        label "Liyakat Ali Habib"
+        label "A97"
     ]
     node[
         id 98
-        label "Manohar Mahadeo"
+        label "A98"
     ]
     node[
         id 99
-        label "Manzoor Ahmed Mohammed Qureshi"
+        label "A99"
     ]
     node[
         id 100
-        label "Sultan Sayyed"
+        label "A100"
     ]
     node[
         id 101
-        label "Mohammed Hanif"
+        label "A101"
     ]
     node[
         id 102
-        label "Mohammed Rafiq Usman"
+        label "A102"
     ]
     node[
         id 103
-        label "Mohammed Issaq"
+        label "A103"
     ]
     node[
         id 104
-        label "Mobina"
+        label "A104"
     ]
     node[
         id 105
-        label "Mulchand Shah Choksi"
+        label "A105"
     ]
     node[
         id 106
-        label "Niyaz Mohammed"
+        label "A106"
     ]
     node[
         id 107
-        label "Pandharinath Madhukar"
+        label "A107"
     ]
     node[
         id 108
-        label "Parvez Mohammed"
+        label "A108"
     ]
     node[
         id 109
-        label "Ramesh Dattatray"
+        label "A109"
     ]
     node[
         id 110
-        label "Ranjit Kumar Singh"
+        label "A110"
     ]
     node[
         id 111
-        label "Rukhsana"
+        label "A111"
     ]
     node[
         id 112
-        label "Mujju Ismail"
+        label "A112"
     ]
     node[
         id 113
-        label "Sayed Ismail"
+        label "A113"
     ]
     node[
         id 114
-        label "Shahnawaz"
+        label "A114"
     ]
     node[
         id 115
-        label "Asif Yusuf Shaikh"
+        label "A115"
     ]
     node[
         id 116
-        label "Shaikh Ibrahim Shaikh Hussain"
+        label "A116"
     ]
     node[
         id 117
-        label "Shaikh Kasam"
+        label "A117"
     ]
     node[
         id 118
-        label "Srikrishna Yeshwant"
+        label "A118"
     ]
     node[
         id 119
-        label "Sikander Issaq"
+        label "A119"
     ]
     node[
         id 120
-        label "Somnath Kakaram Thapa"
+        label "A120"
     ]
     node[
         id 121
-        label "Sudhanwa Sadashiv"
+        label "A121"
     ]
     node[
         id 122
-        label "Sardar Ali Gul"
+        label "A122"
     ]
     node[
         id 123
-        label "Usman Man Khan Shaikh"
+        label "A123"
     ]
     node[
         id 124
-        label "Vijay Krishnaji Patil"
+        label "A124"
     ]
     node[
         id 125
-        label "Sanjay Dutt"
+        label "A125"
     ]
     node[
         id 126
-        label "Yusuf Nullwala"
+        label "A126"
     ]
     node[
         id 127
-        label "Accused 120"
+        label "A127"
     ]
     node[
         id 128
-        label "Accused 121"
+        label "A128"
     ]
     node[
         id 129
-        label "Ehsan Mohammed Tufel"
+        label "A129"
     ]
     node[
         id 130
-        label "Kersi Adejania"
+        label "A130"
     ]
     node[
         id 131
-        label "Accused 125"
+        label "A131"
     ]
     node[
         id 132
-        label "Abdul Aziz"
+        label "A132"
     ]
     node[
         id 133
-        label "Mohammed Iqbal Ibrahim"
+        label "A133"
     ]
     node[
         id 134
-        label "Shahnawaz Khan"
+        label "A134"
     ]
     node[
         id 135
-        label "Accused 129"
+        label "A135"
     ]
     node[
         id 136
-        label "Murad Ibrahim Khan"
+        label "A136"
     ]
     node[
         id 137
-        label "Mujib Sharif Parkar"
+        label "A137"
     ]
     node[
         id 138
-        label "Jamir Sayyed Ismail Kadri"
+        label "A138"
     ]
     node[
         id 139
-        label "Salim Mira"
+        label "A139"
     ]
     node[
         id 140
-        label "Shahid Nizamuddin Qureshi"
+        label "A140"
     ]
     node[
         id 141
-        label "Kasam Lajpuria"
+        label "A141"
     ]
     node[
         id 142
-        label "Eijaz Pathan"
+        label "A142"
     ]
     node[
         id 143
-        label "Abu Salem"
+        label "A143"
     ]
 
     edge[
