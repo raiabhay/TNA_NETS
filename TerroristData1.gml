@@ -1,4 +1,4 @@
-Creator "Abhay Kumar Rai" 
+Dataset on 2001 Parliament attack case
 graph[
     directed 0
     node[
