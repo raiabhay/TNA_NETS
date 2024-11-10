@@ -3,47 +3,47 @@ graph[
     directed 0
     node[
         id 1
-        label "Mohammad"
+        label "A1"
     ]
     node[
         id 2
-        label "Afzal Guru"
+        label "A2"
     ]
     node[
         id 3
-        label "Shaukat Hussain Guru"
+        label "A3"
     ]
     node[
         id 4
-        label "SAR Gilani"
+        label "A4"
     ]
     node[
         id 5
-        label "Afsan Guru"
+        label "A5"
     ]
     node[
         id 6
-        label "Ghazibaba"
+        label "A6"
     ]
     node[
         id 7
-        label "Raja"
+        label "A7"
     ]
     node[
         id 8
-        label "Haider"
+        label "A8"
     ]
     node[
         id 9
-        label "Rana"
+        label "A9"
     ]
     node[
         id 10
-        label "Hamza"
+        label "A10"
     ]
     node[
         id 11
-        label "Tariq"
+        label "A11"
     ]
  
        
