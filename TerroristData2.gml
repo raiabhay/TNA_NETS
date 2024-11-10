@@ -1,89 +1,88 @@
-Creator "Abhay Kumar Rai" 
 graph[
     directed 0
     node[
         id 1
-        label "Pappu @Salim"
+        label "A1"
     ]
     node[
         id 2
-        label "Salar"
+        label "A2"
     ]
     node[
         id 3
-        label "Rayees Ahmad"
+        label "A3"
     ]
     node[
         id 4
-        label "Zilani"
+        label "A4"
     ]
     node[
         id 5
-        label "Islam"
+        label "A5"
     ]
     node[
         id 6
-        label "Chandra Prakash"
+        label "A6"
     ]
     node[
         id 7
-        label "Abu Vakar"
+        label "A7"
     ]
     node[
         id 8
-        label "Asadulla"
+        label "A8"
     ]
     node[
         id 9
-        label "Abdul Samad"
+        label "A9"
     ]
     node[
         id 10
-        label "Dr. Abdul Hameed"
+        label "A10"
     ]
     node[
         id 11
-        label "Ekbal"
+        label "A11"
     ]
     node[
         id 12
-        label "Gilani"
+        label "A12"
     ]
     node[
         id 13
-        label "Yusuf"
+        label "A13"
     ]
     node[
         id 14
-        label "Bengali"
+        label "A14"
     ]
     node[
         id 15
-        label "Salim"
+        label "A15"
     ]
     node[
         id 16
-        label "Rayees Beg"
+        label "A16"
     ]
     node[
         id 17
-        label "Javed Khan"
+        label "A17"
     ]
     node[
         id 18
-        label "Raseed Shah"
+        label "A18"
     ]
     node[
         id 19
-        label "Julfiquar"
+        label "A19"
     ]
     node[
         id 20
-        label "Bilal Ahmad"
+        label "A20"
     ]
     node[
         id 21
-        label "Tiger Memon"
+        label "A21"
     ]
     edge[
         source 1
