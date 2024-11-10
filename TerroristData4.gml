@@ -1,7 +1,6 @@
 Creator "Abhay Kumar Rai"
 graph[
-    diracted 0
-    
+    diracted 0    
     node[
         id 1
         label "A1"
