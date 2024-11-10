@@ -1,149 +1,148 @@
-Creator "Abhay Kumar Rai"
 graph[
     directed 0
     node[
         id 1
-        label "Hafiz Sayeed"
+        label "A1"
     ]
     node[
         id 2
-        label "Zaki-ur-Rehman Lakhvi"
+        label "A2"
     ]
     node[
         id 3
-        label "Abu Hamza"
+        label "A3"
     ]
     node[
         id 4
-        label "Abu Al-Kama"
+        label "A4"
     ]
     node[
         id 5
-        label "Abu Kafa"
+        label "A5"
     ]
     node[
         id 6
-        label "Muzzamil"
+        label "A6"
     ]
     node[
         id 7
-        label "Zarar Shah"
+        label "A7"
     ]
     node[
         id 8
-        label "Fahadullah"
+        label "A8"
     ]
     node[
         id 9
-        label "Abu Abdul Rehman"
+        label "A9"
     ]
     node[
         id 10
-        label "Abu Anas"
+        label "A10"
     ]
     node[
         id 11
-        label "Abu Bashir"
+        label "A11"
     ]
     node[
         id 12
-        label "Abu Imran"
+        label "A12"
     ]
     node[
         id 13
-        label "Mufti Sayeed"
+        label "A13"
     ]
     node[
         id 14
-        label "Hakim Saab"
+        label "A14"
     ]
     node[
         id 15
-        label "Yusuf"
+        label "A15"
     ]
     node[
         id 16
-        label "Murshad"
+        label "A16"
     ]
     node[
         id 17
-        label "Aaquib"
+        label "A17"
     ]
     node[
         id 18
-        label "Abu Umar Sayeed"
+        label "A18"
     ]
     node[
         id 19
-        label "Usman"
+        label "A19"
     ]
     node[
         id 20
-        label "Major General Saab"
+        label "A20"
     ]
     node[
         id 21
-        label "Abu Muavia"
+        label "A21"
     ]
     node[
         id 22
-        label "Abu Hanzala"
+        label "A22"
     ]
     node[
         id 23
-        label "Ismail Khan"
+        label "A23"
     ]
     node[
         id 24
-        label "Imran Babar"
+        label "A24"
     ]
     node[
         id 25
-        label "Nasir"
+        label "A25"
     ]
     node[
         id 26
-        label "Nazir Ahmed"
+        label "A26"
     ]
     node[
         id 27
-        label "Hafiz Arshad"
+        label "A27"
     ]
     node[
         id 28
-        label "Abdul Rehman (Chhota)"
+        label "A28"
     ]
     node[
         id 29
-        label "Abu Fahadullah"
+        label "A29"
     ]
     node[
         id 30
-        label "Javed"
+        label "A30"
     ]
     node[
         id 31
-        label "Soheb"
+        label "A31"
     ]
     node[
         id 32
-        label "Kasab"
+        label "A32"
     ]
     node[
         id 33
-        label "Fahim Ansari"
+        label "A33"
     ]
     node[
         id 34
-        label "Sabauddin"
+        label "A34"
     ]
     node[
         id 35
-        label "Ibrahim"
+        label "A35"
     ]
     node[
         id 36
-        label "Sayeed"
+        label "A36"
     ]    
     
     edge[
