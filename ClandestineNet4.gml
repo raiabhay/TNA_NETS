@@ -3,87 +3,87 @@ graph[
     directed 0
     node[
         id 1
-        label "A1"
+        label "X1"
     ]
     node[
         id 2
-        label "A2"
+        label "X2"
     ]
     node[
         id 3
-        label "A3"
+        label "X3"
     ]
     node[
         id 4
-        label "A4"
+        label "X4"
     ]
     node[
         id 5
-        label "A5"
+        label "X5"
     ]
     node[
         id 6
-        label "A6"
+        label "X6"
     ]
     node[
         id 7
-        label "A7"
+        label "X7"
     ]
     node[
         id 8
-        label "A8"
+        label "X8"
     ]
     node[
         id 9
-        label "A9"
+        label "X9"
     ]
     node[
         id 10
-        label "A10"
+        label "X10"
     ]
     node[
         id 11
-        label "A11"
+        label "X11"
     ]
     node[
         id 12
-        label "A12"
+        label "X12"
     ]
     node[
         id 13
-        label "A13"
+        label "X13"
     ]
     node[
         id 14
-        label "A14"
+        label "X14"
     ]
     node[
         id 15
-        label "A15"
+        label "X15"
     ]
     node[
         id 16
-        label "A16"
+        label "X16"
     ]
     node[
         id 17
-        label "A17"
+        label "X17"
     ]
     node[
         id 18
-        label "A18"
+        label "X18"
     ]
     node[
         id 19
-        label "A19"
+        label "X19"
     ]
     node[
         id 20
-        label "A20"
+        label "X20"
     ]
     node[
         id 21
-        label "A21"
+        label "X21"
     ]
     edge[
         source 1
