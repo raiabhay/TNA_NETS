@@ -3,187 +3,187 @@ graph[
     
     node[
         id 1
-        label "Nalini"
+        label "X1"
     ]
     node[
         id 2
-        label "Santhan"
+        label "X2"
     ]
     node[
         id 3
-        label "Murugan"
+        label "X3"
     ]
     node[
         id 4
-        label "Shankar"
+        label "X4"
     ]
     node[
         id 5
-        label "Vijayanandan"
+        label "X5"
     ]
     node[
         id 6
-        label "Ruban"
+        label "X6"
     ]
     node[
         id 7
-        label "Radhayya"
+        label "X7"
     ]
     node[
         id 8
-        label "Chandralekha"
+        label "X8"
     ]
     node[
         id 9
-        label "Robert Payas"
+        label "X9"
     ]
     node[
         id 10
-        label "Jayakumar"
+        label "X10"
     ]
     node[
         id 11
-        label "Shanthi"
+        label "X11"
     ]
     node[
         id 12
-        label "Vijayan"
+        label "X12"
     ]
     node[
         id 13
-        label "Selvaluxmi"
+        label "X13"
     ]
     node[
         id 14
-        label "Bhaskaran"
+        label "X14"
     ]
     node[
         id 15
-        label "Shanmugavadivelu"
+        label "X15"
     ]
     node[
         id 16
-        label "Ravichandran"
+        label "X16"
     ]
     node[
         id 17
-        label "Suseendran"
+        label "X17"
     ]
     node[
         id 18
-        label "Arivu"
+        label "X18"
     ]
     node[
         id 19
-        label "Irumborai"
+        label "X19"
     ]
     node[
         id 20
-        label "Bhagyanathan"
+        label "X20"
     ]
     node[
         id 21
-        label "Padma"
+        label "X21"
     ]
     node[
         id 22
-        label "Subha Sundaram"
+        label "X22"
     ]
     node[
         id 23
-        label "Dhanasekaran"
+        label "X23"
     ]
     node[
         id 24
-        label "Rangan"
+        label "X24"
     ]
     node[
         id 25
-        label "Vicky"
+        label "X25"
     ]
     node[
         id 26
-        label "Ranganath"
+        label "X26"
     ]
     node[
         id 27
-        label "Sivarasan"
+        label "X27"
     ]
     node[
         id 28
-        label "Dhanu"
+        label "X28"
     ]
     node[
         id 29
-        label "Subha"
+        label "X29"
     ]
     node[
         id 30
-        label "Haribabu"
+        label "X30"
     ]
     node[
         id 31
-        label "Nero"
+        label "X31"
     ]
     node[
         id 32
-        label "Jayaraj"
+        label "X32"
     ]
     node[
         id 33
-        label "Trichy Santhan"
+        label "X33"
     ]
     node[
         id 34
-        label "Suresh Master"
+        label "X34"
     ]
     node[
         id 35
-        label "Dixon"
+        label "X35"
     ]
     node[
         id 36
-        label "Amman"
+        label "X36"
     ]
     node[
         id 37
-        label "Keerthy"
+        label "X37"
     ]
     node[
         id 38
-        label "Jameela"
+        label "X38"
     ]
     node[
         id 39
-        label "Prabhakaran"
+        label "X39"
     ]
     node[
         id 40
-        label "Pottu Amman"
+        label "X40"
     ]
     node[
         id 41
-        label "Akila"
+        label "X41"
     ]
     node[
         id 42
-        label "Kanthan"
+        label "X42"
     ]
     node[
         id 43
-        label "Nixon"
+        label "X43"
     ]
     node[
         id 44
-        label "Sokkan"
+        label "X44"
     ]
     node[
         id 45
-        label "Baby Subramaniam"
+        label "X45"
     ]
     node[
         id 46
-        label "Muthuraja"
+        label "X46"
     ]
 
     edge[
