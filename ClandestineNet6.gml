@@ -1,201 +1,200 @@
 graph[
     directed 0
-
     node[
         id 1
-        label "Kamal Ansari"
+        label "X1"
     ]
     node[
         id 2
-        label "Tanveer Ansari"
+        label "X2"
     ]
     node[
         id 3
-        label "Faisal Shaikh"
+        label "X3"
     ]
     node[
         id 4
-        label "Ehtesham"
+        label "X4"
     ]
     node[
         id 5
-        label "Mohamad Majid"
+        label "X5"
     ]
     node[
         id 6
-        label "Ali Alam Shaikh"
+        label "X6"
     ]
     node[
         id 7
-        label "Sajid Ansari"
+        label "X7"
     ]
     node[
         id 8
-        label "Abdul Wahid Shaikh"
+        label "X8"
     ]
     node[
         id 9
-        label "Muzzammil Shaikh"
+        label "X9"
     ]
     node[
         id 10
-        label "Suhail"
+        label "X10"
     ]
     node[
         id 11
-        label "Zameer Shaikh"
+        label "X11"
     ]
     node[
         id 12
-        label "Naveed Hussain"
+        label "X12"
     ]
     node[
         id 13
-        label "Asif Khan"
+        label "X13"
     ]
     node[
         id 14
-        label "Azam Chima"
+        label "X14"
     ]
     node[
         id 15
-        label "Rizwan Dawarey"
+        label "X15"
     ]
     node[
         id 16
-        label "Rahil Shaikh"
+        label "X16"
     ]
     node[
         id 17
-        label "Hafiz Zuber"
+        label "X17"
     ]
     node[
         id 18
-        label "Sohail"
+        label "X18"
     ]
     node[
         id 19
-        label "Aslam"
+        label "X19"
     ]
     node[
         id 20
-        label "Hafizullah"
+        label "X20"
     ]
     node[
         id 21
-        label "Sabir"
+        label "X21"
     ]
     node[
         id 22
-        label "Abu Bakr"
+        label "X22"
     ]
     node[
         id 23
-        label "Kasam Ali"
+        label "X23"
     ]
     node[
         id 24
-        label "Ammu Jaan"
+        label "X24"
     ]
     node[
         id 25
-        label "Ehsanulah"
+        label "X25"
     ]
     node[
         id 26
-        label "Abu Hasan"
+        label "X26"
     ]
     node[
         id 27
-        label "Abdul Razzak"
+        label "X27"
     ]
     node[
         id 28
-        label "Abdul Rahman"
+        label "X28"
     ]
     node[
         id 29
-        label "Salim"
+        label "X29"
     ]
     node[
         id 30
-        label "Abu Osama"
+        label "X30"
     ]
     node[
         id 31
-        label "Ataur Shaikh"
+        label "X31"
     ]
     node[
         id 32
-        label "Abdul Dawrey"
+        label "X32"
     ]
     node[
         id 33
-        label "Khalida"
+        label "X33"
     ]
     node[
         id 34
-        label "Mushtaq Ahmed"
+        label "X34"
     ]
     node[
         id 35
-        label "Bilal"
+        label "X35"
     ]
     node[
         id 36
-        label "Mohsin Khan"
+        label "X36"
     ]
     node[
         id 37
-        label "Azim Qureshi"
+        label "X37"
     ]
     node[
         id 38
-        label "Hidayatulla"
+        label "X38"
     ]
     node[
         id 39
-        label "Rizwan Khot"
+        label "X39"
     ]
     node[
         id 40
-        label "Mohd. Shakil"
+        label "X40"
     ]
     node[
         id 41
-        label "Mohd. Asif"
+        label "X41"
     ]
     node[
         id 42
-        label "Kallu"
+        label "X42"
     ]
     node[
         id 43
-        label "Amar Khan"
+        label "X43"
     ]
     node[
         id 44
-        label "Ajmeri Shaikh"
+        label "X44"
     ]
     node[
         id 45
-        label "Gulam Sabir"
+        label "X45"
     ]
     node[
         id 46
-        label "Noman Sultan"
+        label "X46"
     ]
     node[
         id 47
-        label "Hazrat Ali"
+        label "X47"
     ]
     node[
         id 48
-        label "Saidunissa"
+        label "X48"
     ]
     node[
         id 49
-        label "Hafiz Saeed"
+        label "X49"
     ]
 
     edge[
